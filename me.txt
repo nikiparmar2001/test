@@ -1,0 +1,5 @@
+{{#user}}
+Name: Niki
+Skills: HTML, CSS, JS, Angular(basics),Aix System Administration
+Email: nikiparmarr08@gmail.com
+{{/user}}
